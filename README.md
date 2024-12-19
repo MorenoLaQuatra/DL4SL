@@ -1,9 +1,9 @@
 # 📚 Deep Learning for Speech and Language Processing
 
-**Course:** Deep Learning for Speech and Language Processing (DL4SL)
-**Instructor:** Moreno La Quatra
-**University:** UKE - [Kore University of Enna](https://unikore.it/)
-**Degree:** MSc. in Artificial Intelligence and Cybersecurity
+- **Course:** Deep Learning for Speech and Language Processing (DL4SL)
+- **Instructor:** Moreno La Quatra
+- **University:** UKE - [Kore University of Enna](https://unikore.it/)
+- **Degree:** MSc. in Artificial Intelligence and Cybersecurity
 
 This repository will help you with materials for hands-on sessions and learning resources.
 
