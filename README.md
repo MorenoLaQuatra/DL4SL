@@ -13,6 +13,7 @@ This repository will help you with materials for hands-on sessions and learning 
 
 Here’s how to navigate the repository:
 - **`datasets/`**: Datasets for the exercises.
+  - [`datasets/movie_metadata.csv`](datasets/movie_metadata.csv): A text collection containing movie metadata.
 - **`resources/`**: Extra materials that may be needed.
 - **`notebooks/`**: *(Coming Soon)* Hands-on coding notebooks.
 - **`README.md`**: This file explains what you can find here.
